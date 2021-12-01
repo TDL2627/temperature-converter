@@ -1,0 +1,31 @@
+body{
+    text-align: center !important;
+}
+.sex1{
+    border: 2px solid black;
+    padding: 50px;
+    width: 400px;
+    align-self: center;
+    margin: 100px;
+    
+}
+label{
+    margin: 10px;
+}
+.sex2{
+    border: 2px solid black;
+    padding: 50px;
+    width: 400px;
+    align-self: center;
+    margin: 100px;
+}
+.grid{
+    display: flex;
+    grid-gap: 20px;
+ align-self: center;
+ margin-left: 15%;
+}
+.result{
+    margin: 20px;
+    background-color: cyan;
+}
